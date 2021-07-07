@@ -1,15 +1,15 @@
 {
-	"name": "tailpress",
+	"name": "loonymoon",
 	"version": "0.0.5",
-	"description": "Boilerplate WordPress theme with TailwindCSS.",
-	"author": "Jeffrey van Rossum",
+	"description": "Theme built for Loony Moon Farm",
+	"author": "James Cole",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/jeffreyvr/tailpress"
+		"url": "https://github.com/tortillaj/loonymoon"
 	},
-	"theme_uri": "https://github.com/jeffreyvr/tailpress",
-	"author_uri": "https://vanrossum.dev",
-	"text_domain": "tailpress",
+	"theme_uri": "https://github.com/tortillaj/loonymoon",
+	"author_uri": "https://greenmountain.design",
+	"text_domain": "loonymoon",
 	"license": "GPL-2.0",
 	"scripts": {
 		"development": "mix",
